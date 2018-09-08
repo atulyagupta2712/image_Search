@@ -51,6 +51,7 @@ button{
     
 }
 .size{
+      margin: 5% 22%;
      display: inline-block;
     width: 40%;
     max-height: 350px;
@@ -67,9 +68,10 @@ button{
     .size{
     display: block;
     width: 70%;
+      
     text-align: center;
-    max-height: 150px;
-    min-height: 150px;
+    max-height: 230px;
+    min-height: 230px;
 }
 }
 
