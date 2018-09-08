@@ -51,11 +51,11 @@ button{
     
 }
 .size{
-      margin: 1.5%;
+      margin: 0.5%;
      display: inline-block;
     width: 40%;
-    max-height: 350px;
-    min-height: 350px;
+    max-height: 400px;
+    min-height: 400px;
     
 }
 @media(max-width: 786px){
