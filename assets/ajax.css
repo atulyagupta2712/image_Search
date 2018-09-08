@@ -52,7 +52,7 @@ button{
 }
 img{
      display: inline-block;
-    width: 45%;
+    width: 40%;
     max-height: 350px;
     min-height: 350px;
     
@@ -67,9 +67,7 @@ img{
 }
 }
 .size{
- height: 100%;
- width: 100%;
-  text-align: center;
+
   margin: 5% 22%;
     /* display: flex;
     justify-content: center; */
