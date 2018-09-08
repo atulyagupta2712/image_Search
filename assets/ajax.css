@@ -58,6 +58,12 @@ button{
     
 }
 @media(max-width: 786px){
+    #images{
+    display: block;
+ 
+    text-align: center;
+    
+}
     .size{
     display: block;
     width: 70%;
