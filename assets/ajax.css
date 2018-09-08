@@ -45,9 +45,16 @@ button{
     }
 }
 #images{
+    display: flex-wrap;
+    width: 45%;
+    text-align: center;
+}
+@media(max-width: 786px){
+    #images{
     display: block;
     width: 70%;
     text-align: center;
+}
 }
 .size{
  height: 100%;
