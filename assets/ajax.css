@@ -51,7 +51,7 @@ button{
     
 }
 img{
-     display: flex-wrap;
+     display: inline-block;
     width: 45%;
     max-height: 350px;
     min-height: 350px;
