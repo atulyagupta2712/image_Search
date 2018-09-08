@@ -48,12 +48,16 @@ button{
     display: flex-wrap;
     width: 45%;
     text-align: center;
+    max-height: 350px;
+    min-height: 350px;
 }
 @media(max-width: 786px){
     #images{
     display: block;
     width: 70%;
     text-align: center;
+          max-height: 150px;
+    min-height: 150px;
 }
 }
 .size{
